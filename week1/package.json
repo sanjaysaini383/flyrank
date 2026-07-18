@@ -1,0 +1,17 @@
+{
+  "name": "week1-task-api",
+  "version": "1.0.0",
+  "description": "Task CRUD API for FlyRank week1 (Express)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "swagger-ui-express": "^4.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
